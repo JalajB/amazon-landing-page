@@ -1,1 +1,1 @@
-# amazon-clone
+# amazon-landing-page
